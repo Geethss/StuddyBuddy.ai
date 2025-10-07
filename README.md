@@ -204,7 +204,7 @@ The frontend is built with:
 - [ ] Add authentication and user management
 - [ ] Implement document summarization features
 - [ ] Add quiz generation capabilities
-=======
+
 # StudyBuddy.ai (Backend)
 
 This is the FastAPI backend for StudyBuddy.ai — an intelligent assistant that helps students summarize, understand, and chat with documents.
