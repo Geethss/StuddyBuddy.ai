@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # StudyBuddy.ai
 
 A document-grounded Q&A system with support for both OpenAI and Google Gemini AI.
@@ -220,4 +219,3 @@ This is the FastAPI backend for StudyBuddy.ai — an intelligent assistant that 
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
->>>>>>> c961582dd42b560241688411659da3cb2cf2b1d3
