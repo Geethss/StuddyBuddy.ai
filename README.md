@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudyBuddy.ai
 
 A document-grounded Q&A system with support for both OpenAI and Google Gemini AI.
@@ -204,3 +205,19 @@ The frontend is built with:
 - [ ] Add authentication and user management
 - [ ] Implement document summarization features
 - [ ] Add quiz generation capabilities
+=======
+# StudyBuddy.ai (Backend)
+
+This is the FastAPI backend for StudyBuddy.ai — an intelligent assistant that helps students summarize, understand, and chat with documents.
+
+## Features
+- Upload and parse PDFs
+- Store and search using vector DBs
+- Chat with your content using LLMs
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+>>>>>>> c961582dd42b560241688411659da3cb2cf2b1d3
